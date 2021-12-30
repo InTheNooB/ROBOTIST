@@ -1,0 +1,15 @@
+app
+app.beans
+app.consts
+app.ctrl
+app.exception
+app.ihm
+app.ihm.panels
+app.ihm.panels.nodes
+app.utils
+app.wrk
+app.wrk.database
+app.wrk.robot
+app.wrk.robot.sequence
+app.wrk.server
+app.wrk.server.actions
